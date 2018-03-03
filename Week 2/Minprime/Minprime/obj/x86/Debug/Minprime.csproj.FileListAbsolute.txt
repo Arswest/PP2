@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 2/Minprime/Minprime/bin/Debug/Minprime.exe
+/Users/Arslan/Desktop/C#/Week 2/Minprime/Minprime/bin/Debug/Minprime.pdb
+/Users/Arslan/Desktop/C#/Week 2/Minprime/Minprime/obj/x86/Debug/Minprime.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 2/Minprime/Minprime/obj/x86/Debug/Minprime.exe
+/Users/Arslan/Desktop/C#/Week 2/Minprime/Minprime/obj/x86/Debug/Minprime.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7D1C5C84-3888-4FEA-8F84-CDC5869932B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rectangle/EmptyClass.cs">
+    <Files>
+      <File FileName="Rectangle/Program.cs" Line="15" Column="2" />
+      <File FileName="Rectangle/EmptyClass.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Rectangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

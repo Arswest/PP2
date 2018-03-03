@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{362CBD72-92FC-4DE1-9C0D-2942FB61843E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minprime/Program.cs">
+    <Files>
+      <File FileName="Minprime/Program.cs" Line="27" Column="15" />
+      <File FileName="Minprime/bin/Debug/input.txt" Line="1" Column="1" />
+      <File FileName="Minprime/bin/Debug/output.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Minprime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

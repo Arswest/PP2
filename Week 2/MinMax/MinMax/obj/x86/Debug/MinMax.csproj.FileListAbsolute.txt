@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 2/MinMax/MinMax/bin/Debug/MinMax.exe
+/Users/Arslan/Desktop/C#/Week 2/MinMax/MinMax/bin/Debug/MinMax.pdb
+/Users/Arslan/Desktop/C#/Week 2/MinMax/MinMax/obj/x86/Debug/MinMax.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 2/MinMax/MinMax/obj/x86/Debug/MinMax.exe
+/Users/Arslan/Desktop/C#/Week 2/MinMax/MinMax/obj/x86/Debug/MinMax.pdb

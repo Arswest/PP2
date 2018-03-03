@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 1/Introduction/Introduction/bin/Debug/Introduction.exe
+/Users/Arslan/Desktop/C#/Week 1/Introduction/Introduction/bin/Debug/Introduction.pdb
+/Users/Arslan/Desktop/C#/Week 1/Introduction/Introduction/obj/x86/Debug/Introduction.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 1/Introduction/Introduction/obj/x86/Debug/Introduction.exe
+/Users/Arslan/Desktop/C#/Week 1/Introduction/Introduction/obj/x86/Debug/Introduction.pdb

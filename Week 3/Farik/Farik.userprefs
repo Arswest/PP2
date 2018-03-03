@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AB6F0F86-DB6E-4C0C-93AE-3E71D5C30381}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Farik/Program.cs">
+    <Files>
+      <File FileName="Farik/Program.cs" Line="2" Column="1" />
+      <File FileName="Farik/Realisation.cs" Line="57" Column="1" />
+      <File FileName="Farik/Dir.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Farik PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

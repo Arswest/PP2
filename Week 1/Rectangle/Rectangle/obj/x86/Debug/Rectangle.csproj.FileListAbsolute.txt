@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 1/Rectangle/Rectangle/bin/Debug/Rectangle.exe
+/Users/Arslan/Desktop/C#/Week 1/Rectangle/Rectangle/bin/Debug/Rectangle.pdb
+/Users/Arslan/Desktop/C#/Week 1/Rectangle/Rectangle/obj/x86/Debug/Rectangle.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 1/Rectangle/Rectangle/obj/x86/Debug/Rectangle.exe
+/Users/Arslan/Desktop/C#/Week 1/Rectangle/Rectangle/obj/x86/Debug/Rectangle.pdb

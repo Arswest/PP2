@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 1/Student/Student/bin/Debug/Student.exe
+/Users/Arslan/Desktop/C#/Week 1/Student/Student/bin/Debug/Student.pdb
+/Users/Arslan/Desktop/C#/Week 1/Student/Student/obj/x86/Debug/Student.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 1/Student/Student/obj/x86/Debug/Student.exe
+/Users/Arslan/Desktop/C#/Week 1/Student/Student/obj/x86/Debug/Student.pdb

@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 3/Farik/Farik/bin/Debug/Farik.exe
+/Users/Arslan/Desktop/C#/Week 3/Farik/Farik/bin/Debug/Farik.pdb
+/Users/Arslan/Desktop/C#/Week 3/Farik/Farik/obj/x86/Debug/Farik.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 3/Farik/Farik/obj/x86/Debug/Farik.exe
+/Users/Arslan/Desktop/C#/Week 3/Farik/Farik/obj/x86/Debug/Farik.pdb

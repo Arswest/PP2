@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 4/Serialization/Serialization/obj/x86/Debug/Serialization.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 4/Serialization/Serialization/bin/Debug/Serialization.exe
+/Users/Arslan/Desktop/C#/Week 4/Serialization/Serialization/bin/Debug/Serialization.pdb
+/Users/Arslan/Desktop/C#/Week 4/Serialization/Serialization/obj/x86/Debug/Serialization.exe
+/Users/Arslan/Desktop/C#/Week 4/Serialization/Serialization/obj/x86/Debug/Serialization.pdb

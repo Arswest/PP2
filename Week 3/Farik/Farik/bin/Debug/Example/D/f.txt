@@ -1,0 +1,10 @@
+﻿using System;
+namespace Farik.bin.Debug.Example.D
+{
+ public class f
+ {
+     public f()
+     {
+     }
+ }
+}

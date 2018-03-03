@@ -1,0 +1,5 @@
+/Users/Arslan/Desktop/C#/Week 2/Complex/Complex/bin/Debug/Complex.exe
+/Users/Arslan/Desktop/C#/Week 2/Complex/Complex/bin/Debug/Complex.pdb
+/Users/Arslan/Desktop/C#/Week 2/Complex/Complex/obj/x86/Debug/Complex.csproj.CoreCompileInputs.cache
+/Users/Arslan/Desktop/C#/Week 2/Complex/Complex/obj/x86/Debug/Complex.exe
+/Users/Arslan/Desktop/C#/Week 2/Complex/Complex/obj/x86/Debug/Complex.pdb
